@@ -1,1 +1,1 @@
-# mineserverfiles
+# Файлы для сервера
